@@ -11,4 +11,4 @@ scoop install suve
 
 ## Available Manifests
 
-- **suve** - Git-like CLI for AWS Parameter Store and Secrets Manager
+- **suve** - Git-like CLI/GUI for AWS Parameter Store and Secrets Manager
