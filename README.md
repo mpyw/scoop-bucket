@@ -6,9 +6,17 @@ This repository contains Scoop manifests for mpyw tools.
 
 ```powershell
 scoop bucket add mpyw https://github.com/mpyw/scoop-bucket.git
-scoop install suve
+scoop install <manifest>
+```
+
+**Example:**
+
+```powershell
+scoop bucket add mpyw https://github.com/mpyw/scoop-bucket.git
+scoop install sql-http-proxy
 ```
 
 ## Available Manifests
 
-- **suve** - Git-like CLI/GUI for AWS Parameter Store and Secrets Manager
+- **[sql-http-proxy](https://github.com/mpyw/sql-http-proxy)** - YAML configuration-based HTTP to SQL proxy server
+- **[suve](https://github.com/mpyw/suve)** - Git-like CLI/GUI for AWS Parameter Store and Secrets Manager
