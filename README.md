@@ -13,7 +13,7 @@ scoop install <manifest>
 
 ```powershell
 scoop bucket add mpyw https://github.com/mpyw/scoop-bucket.git
-scoop install sql-http-proxy
+scoop install suve
 ```
 
 ## Available Manifests
