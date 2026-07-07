@@ -1,16 +1,16 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Git-like CLI for AWS Parameter Store and Secrets Manager",
   "homepage": "https://github.com/mpyw/suve",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/mpyw/suve/releases/download/v1.2.0/suve_1.2.0_windows_amd64.zip",
-      "hash": "9503f36899a8ee37318e09757b95ca120c641cff523b39ab2a21be47482b91fc"
+      "url": "https://github.com/mpyw/suve/releases/download/v1.3.0/suve_1.3.0_windows_amd64.zip",
+      "hash": "f5616a6e322755462d8eba26397a14ff1ec7fea5b7834e672ca20f25ed0f3a99"
     },
     "arm64": {
-      "url": "https://github.com/mpyw/suve/releases/download/v1.2.0/suve_1.2.0_windows_arm64.zip",
-      "hash": "acc198992d4783adbe187f6cd93a6784877be4e8707bec8367d94017149ee9f6"
+      "url": "https://github.com/mpyw/suve/releases/download/v1.3.0/suve_1.3.0_windows_arm64.zip",
+      "hash": "4ae38ae3ddc848c55d28d5e317b5fcd035a07429d252b583b5b0a256061dd6a4"
     }
   },
   "bin": "suve.exe"
